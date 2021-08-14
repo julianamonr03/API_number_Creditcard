@@ -13,7 +13,17 @@
 - API
 - Docker
 
+## Installation
 
+> Clone the repository https://github.com/julianamonr03/API_number_Creditcard.git
+
+Run the follow commands in your console
+
+1. **docker build -t flaskdock .**
+
+2. **docker image ls**
+
+3. **docker run -it -p 5000:5000 flaskdock**
 
 <!-- Contact info -->
 
